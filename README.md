@@ -11,7 +11,7 @@ This repository contains my daily training notes, SQL practice, Oracle concepts,
 
 ---
 
-## 📌 About This Repository
+##  About This Repository
 
 I created this repository to document my progress while learning and working with **Oracle Database and SQL**.
 
@@ -28,7 +28,7 @@ This repository will be updated continuously throughout my training.
 
 ---
 
-# 🗂️ Repository Structure
+#  Repository Structure
 
 ```text
 oracle-associate-training/
